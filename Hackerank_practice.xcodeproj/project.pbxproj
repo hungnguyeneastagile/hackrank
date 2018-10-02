@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7132B783214959D8009C9C76 /* Making_anagrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7132B782214959D8009C9C76 /* Making_anagrams.cpp */; };
 		715084FD2159280F00F44BE0 /* timeConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 715084FC2159280F00F44BE0 /* timeConversion.cpp */; };
+		718F4F2C2162FCF7008DD6A7 /* Electric_shop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 718F4F2A2162FCF7008DD6A7 /* Electric_shop.cpp */; };
 		71DB1CBA2156350E00E31F6F /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 71DB1CB92156350E00E31F6F /* Test.m */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		715084FC2159280F00F44BE0 /* timeConversion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = timeConversion.cpp; sourceTree = "<group>"; };
 		718F4F282162FA70008DD6A7 /* test */ = {isa = PBXFileReference; lastKnownFileType = text; path = test; sourceTree = "<group>"; };
 		718F4F292162FC37008DD6A7 /* Test2 */ = {isa = PBXFileReference; lastKnownFileType = text; path = Test2; sourceTree = "<group>"; };
+		718F4F2A2162FCF7008DD6A7 /* Electric_shop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Electric_shop.cpp; sourceTree = "<group>"; };
 		71DB1CB82156350E00E31F6F /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 		71DB1CB92156350E00E31F6F /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +75,7 @@
 			children = (
 				7132B77521474F69009C9C76 /* main.cpp */,
 				715084FC2159280F00F44BE0 /* timeConversion.cpp */,
+				718F4F2A2162FCF7008DD6A7 /* Electric_shop.cpp */,
 				71DB1CB82156350E00E31F6F /* Test.h */,
 				71DB1CB92156350E00E31F6F /* Test.m */,
 				7132B77C21480282009C9C76 /* array.cpp */,
@@ -142,6 +145,7 @@
 			files = (
 				715084FD2159280F00F44BE0 /* timeConversion.cpp in Sources */,
 				71DB1CBA2156350E00E31F6F /* Test.m in Sources */,
+				718F4F2C2162FCF7008DD6A7 /* Electric_shop.cpp in Sources */,
 				7132B783214959D8009C9C76 /* Making_anagrams.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
